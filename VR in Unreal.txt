@@ -1,0 +1,51 @@
+***Get VR in Unreal with Quest 2 - Virtus Learning Hub Youtube***
+https://www.youtube.com/watch?v=DiGh6MxDFds
+
+Step 1 - Download Android Studio, unreal 5 curently works with android studio 4.0
+	- make sure its open when using
+
+Step 2 - Download Oculus App and install
+	- connect oculus to the app
+
+Step 3 - Make sure VS 2022 is installed and working, set up for unreal 5
+	- game development with c++(needs to be installed)
+
+Step 4 - Create an oculus developer account(need facebook account)
+
+Step 5 - Enable developer mode in oculus app
+
+Step 6 - access VR preview to navigate in game(do not need build, looks very simple and handy)
+	**troubleshooting** - make sure android studio open
+			    - make sure headset connected to USB 3.0/Type C port
+			    - developer mode enabled
+			    - allow access via headset
+
+Step 7 - Create new level/ import street and truck and use that
+
+Step 8 - Setup VR pawn in scene
+	- Auto posess player in Player 0(only able to look around in preview mode)
+	- creat navmesh bounds volume, scal it up to cover entire playable area, must intersect with floor
+	- press P on keyboard to activate green navigatable area
+	- additional objects will auto create cut-outs of the nav mesh
+	- should be able to teleport around map now
+
+Step 9 - Create custom VR pickup items
+	- Content/VRTemplate/Blueprints/grabable_smallcube(duplicate and label accordingly)
+	- select object and change to any static mesh that we have
+	- place in scene
+	- should be able to navigate to object and pick up with left trigger(and throw)
+	- need to further investigate how to get objects to snap to certain points of players hand
+
+Step 10 - Content migration(take assets from existing project and migrate into VR project)
+	- right click/ browse to asset
+	- double click to make sure it has material
+	- right click/ asset actions/ migrate (takes assets from 3D model and any dependencies)
+	- navigate to vr project and content folder (press yes for conflicst if needed, same materials etc)
+	- should get successful completion message
+	- assets should be back in migrated folder of VR project, double click to open
+	- drag and drop into scene
+	- use with grabbable_smallcube object to pick up if needed
+
+
+
+

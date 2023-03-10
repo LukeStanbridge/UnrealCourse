@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/keigj0/Documents/GitRepos/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8A/XRU39XF5KG3QEQLG3F0GYS.uasset",
+				"C:/Users/keigj0/Documents/GitRepos/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZB/VB1UU9TC46X46O4OHVIFJ3.uasset",
+				"C:/Users/keigj0/Documents/GitRepos/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/9M/GH59QM9MHH8IH0O0HAZOA0.uasset"
+			]
+		}
+	]
+}
