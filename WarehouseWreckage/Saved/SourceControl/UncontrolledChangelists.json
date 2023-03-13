@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BP_Projectile.uasset",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/StarterContent/Maps/Warehouse.umap",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/BP_Barrell.uasset",
+				"C:/Users/USER/Documents/GitHub/UnrealCourse/WarehouseWreckage/Content/BP_Projectile.uasset",
 				"C:/Users/keigj0/Documents/GitRepos/UnrealCourse/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/keigj0/Documents/GitRepos/UnrealCourse/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
 			]
